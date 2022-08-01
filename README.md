@@ -1,4 +1,4 @@
-# Wordpress video game live streaming (Twitch, Goodgame)
+# Wordpress video game streams (Twitch, Goodgame)
 
 This version does not use ACF. Before activating the plugin, you must manually create a table for streams in the database:
 
